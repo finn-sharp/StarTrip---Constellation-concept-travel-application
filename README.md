@@ -8,9 +8,9 @@
 
 | Name | Role |
 |------|------|
-| Jaehyun Kim | Product Manager, Prompt Assistant |
-| Gunhee Kim | Prompt Engineer |
-| Huisu Cho | Product Designer |
+| Jaehyun Kim | Product Owner, Prompt Assistant |
+| Gunhee Kim | Prompt Engineer, Architecture Designer |
+| Huisu Cho | Product Designer, UI/UX Design |
 
 > Like invisible yet powerful orbits, our team seamlessly connects memories and places through light.
 
