@@ -5,7 +5,9 @@
 
 ## 📱 Overview
 
-StarTrip is an advanced astronomical mobile application that provides users with an immersive experience exploring celestial bodies and astronomical data. The application features a stunning starry background throughout its interface and an interactive 3D Earth model as its centerpiece.
+StarTrip is an advanced astronomical mobile application that provides users with an immersive experience exploring celestial bodies and astronomical data. The application features a stunning starry background throughout its interface and an interactive 3D Earth model as its centerpiece. 
+
+Sadly, we don't have a Software Engineer in our team, so we developed it using only generative AI tools called Gemini, Cursor AI, and Claude. If anyone wants to make a product with that idea, please feel free to contact us! (82+ 010-9608-0144)
 
 ### Key Metrics
 
