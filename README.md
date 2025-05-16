@@ -9,6 +9,9 @@ StarTrip is an advanced astronomical mobile application that provides users with
 
 Sadly, we don't have a Software Engineer in our team, so we developed it using only generative AI tools called Gemini, Cursor AI, and Claude. If anyone wants to make a product with that idea, please feel free to contact us! (82+ 010-9608-0144)
 
+This is a video about the products we want to make!
+https://www.youtube.com/watch?v=P1Elbfa2CgE
+
 ### Key Metrics
 
 | Metric | Value |
