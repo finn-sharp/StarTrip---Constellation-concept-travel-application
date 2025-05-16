@@ -1,9 +1,7 @@
 # StarTrip - Constellation Concept Travel Application
 
-<div align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" alt="StarTrip Logo" width="120"/>
-  <p>Like invisible yet powerful orbits, our team seamlessly connects memories and places through light.</p>
-</div>
+![image](https://github.com/user-attachments/assets/63ac5734-7c99-4e9d-8000-63dda7dbf137)
+
 
 ## 📱 Overview
 
