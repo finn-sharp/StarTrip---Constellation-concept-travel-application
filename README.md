@@ -4,9 +4,9 @@
 
 ## 👥 Team
 
-**Team Name: Orbitals**
+**Orbitals**
 
-| Name | Role |
+| Member | Role |
 |------|------|
 | Jaehyun Kim | Product Owner, Prompt Assistant |
 | Gunhee Kim | Prompt Engineer, Architecture Designer |
