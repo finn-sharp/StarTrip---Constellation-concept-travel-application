@@ -2,6 +2,17 @@
 
 ![image](https://github.com/user-attachments/assets/63ac5734-7c99-4e9d-8000-63dda7dbf137)
 
+## 👥 Team
+
+**Team Name: Orbitals**
+
+| Name | Role |
+|------|------|
+| Jaehyun Kim | Product Manager, Prompt Assistant |
+| Gunhee Kim | Prompt Engineer |
+| Huisu Cho | Product Designer |
+
+> Like invisible yet powerful orbits, our team seamlessly connects memories and places through light.
 
 ## 📱 Overview
 
